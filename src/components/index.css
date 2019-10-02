@@ -1,0 +1,238 @@
+.landing{
+  background: #EBEBEB;
+  position: relative;
+  height:100vh;
+}
+
+.picHome{
+  margin: auto;
+  width: 400px;
+
+
+}
+
+.landing-pic{
+  position: relative;
+  width: 400px;
+  margin: auto;
+  padding-top: 50px
+
+}
+
+
+.landing h1{
+  color:white;
+  font-family: Noto serif;
+  font-weight: 500;
+  font-size: 5rem;
+  width: 700px;
+      position: absolute;
+    top: 350px;
+    left: -100px;
+
+}
+
+.space{
+  margin-left: 120px
+}
+
+
+.skills{
+  font-family: work sans;
+  position: absolute;
+  top: 460px;
+  left: 450px ;
+
+}
+
+.skills p{
+  margin-bottom: 0px;
+  width: 300px
+}
+
+
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  font-family: work sans;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+}
+
+
+
+.header a{
+  font-family: work sans;
+  font-weight: 400;
+  font-size: .9rem;
+  margin: 0px 20px;
+  text-decoration: none;
+  color:black;
+    flex: 0 0 20%;
+
+
+}
+
+
+
+
+.iam{
+  padding:100px;
+  font-family: work sans;
+  background: #F9F9F9
+
+}
+
+.iam h3{
+   font-weight: 500;
+   font-size: 1.8rem
+}
+
+.spe{
+  font-style: italic;
+  font-weight: 700;
+
+}
+
+.pres p{
+  width: 70%;
+  margin-top: 60px;
+  margin-left: 20%;
+  text-align: justify;
+}
+
+
+.blue{
+  color: #34FFFF;
+  font-weight: 700
+}
+
+
+
+
+.ong{
+
+  position: relative;
+}
+
+.ong svg{
+  position: absolute;
+  top:25px;
+  left:15px;
+
+}
+
+
+
+.ong2{
+
+  position: relative;
+}
+
+.ong2 svg{
+  position: absolute;
+  top:25px;
+  left:25px;
+}
+
+
+.ong:hover{
+color:#34FFFF;
+letter-spacing: 0.05em;
+transition: all .5s ease-out;
+}
+
+
+.ong2:hover{
+color:#34FFFF;
+letter-spacing: 0.05em;
+transition: all .5s ease-out;
+}
+
+
+.scroll{
+  position: fixed;
+  margin-left: 48%;
+  bottom: 20px;
+
+}
+
+
+
+.projet{
+  display: flex;
+  background: transparent;
+  width: 100%;
+
+
+}
+
+.pic{
+flex: 0 0 50%;
+padding: 7%
+}
+
+.pic1{
+  height: 600px
+}
+
+
+
+.desc{
+
+  padding:10%;
+  padding-top: 20%;
+  font-family: work sans;
+  background: #F9F9F9;
+  flex: 0 0 50%;
+}
+
+
+.desc h3{
+  font-weight: 500;
+  font-size: 1.5rem;
+
+}
+
+
+.desc h4{
+  font-weight: 300;
+  font-size: 1rem;
+
+}
+
+
+
+.desc p{
+
+  font-size: .8rem;
+  width: 250px;
+  text-align: justify;
+
+}
+
+.phone-pic{
+  width: 20px;
+  margin-bottom: -10px;
+  margin-right: 10px
+}
+
+
+.contact{
+  background: #EBEBEB;
+  padding: 7%;
+  font-family: work sans;
+  position: relative;
+  z-index:5;
+
+}
+
+
+.contact h3{
+
+font-weight: 500;
+}
+
+
